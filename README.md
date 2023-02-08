@@ -22,7 +22,6 @@ Display Configuration:
         - LG Ultrawide (2560x1080)
         - Acer ED347CKR (3440x1440)
 ```
-#
 ## **Steps**
 
 1. Check to see that you have multiple providers with **`xrandr`**:
@@ -64,7 +63,7 @@ Display Configuration:
 
 After reboot, you should be able to see all of your monitors turned on as if they are plugged into a single GPU.
 
-#
+
 ## **Sanity Check**
 
 If you have gotten this far, I will show examples of what you should be seeing if everything was successful.
@@ -90,14 +89,12 @@ This should just output `Y` if successful, `N` for unsuccessful.
 ### GPU 1
 ![GPU 1](assets/gpu_1.png)
 
-#
 ## Monitor Cable Layout
 
 ![](assets/image0.jpeg)
 ![](assets/image1.jpeg)
 ![](assets/image2.jpeg)
 
-#
 ## Useful Links
 
 1. Conversation between @Xeizzeth and @generix on nvidia developer forums
@@ -109,7 +106,6 @@ This should just output `Y` if successful, `N` for unsuccessful.
 3. [Modeset=1 not detected - forum.endeavouros.com](https://forum.endeavouros.com/t/modeset-1-not-detected/29748/3)
 
 
-#
 ## Final Notes
 
 I added pdfs of the web pages I used for reference in case any of them ever go down. Head over to **`/webpage_pdfs`** in the repo.
